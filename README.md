@@ -9,5 +9,5 @@ Ağustos 2019 itibarı ile GitHub, 40 milyon kayıtlı kullanıcıya ve 100 mily
 
 4 Haziran 2018'de Microsoft, GitHub'ı 7.5 milyar dolar karşılığında satın alacağını açıklamıştır[3] ve 26 Ekim 2018'de de satın alımın tamamlandığını açıklamıştır.[4]</p> <br>
 <h2 align="center">html</h2> 
-<img align="left" src="https://github.com/yseyee11/proje/blob/main/resim.png" width="150" height="150"/>
+<p><img align="left" src="https://github.com/yseyee11/proje/blob/main/resim.png" width="150" height="150"/></p>
 
